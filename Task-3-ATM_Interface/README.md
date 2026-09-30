@@ -6,7 +6,7 @@
 
 The ATM Interface is a Java console-based application that simulates basic ATM operations.
 
-The application allows the user to check their account balance, deposit money, withdraw money, and exit the ATM. The project uses two classes: `ATM` for the user interface and `BankAccount` for storing and managing the account balance.
+The application allows the user to check their account balance, deposit money, withdraw money, and exit the ATM. The project uses two classes: `ATM` for the user interface and `UserBankAccount` for storing and managing the account balance.
 
 ## Features
 
@@ -34,16 +34,16 @@ The application allows the user to check their account balance, deposit money, w
 ## Project Structure
 
 ``text
-Task-3-ATM-Interface
+Task-3-ATM_Interface
 ├── ATM.java
-├── BankAccount.java
+├── UserBankAccount.java
 └── README.md
 
 ## How to Run
 
 1. Open the Project
 
-Open the `Task-3-ATM-Interface` folder in a Java-supported IDE such as:
+Open the `Task-3-ATM_Interface` folder in a Java-supported IDE such as:
 
 - IntelliJ IDEA
 - Eclipse
@@ -51,7 +51,7 @@ Open the `Task-3-ATM-Interface` folder in a Java-supported IDE such as:
 - NetBeans
 - 
 2. Compile the Program
-`javac BankAccount.java ATM.java`
+`javac UserBankAccount.java ATM.java`
 
 3. Run the Program
 `java ATM`
