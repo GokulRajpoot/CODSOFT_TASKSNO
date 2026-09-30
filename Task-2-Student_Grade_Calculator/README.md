@@ -47,7 +47,7 @@ The following grade scale is used in this project:
 
 ### 1. Open the Project
 
-Open the `Task-2-Student-Grade-Calculator` folder in a Java-supported IDE such as:
+Open the `Task-2-Student_Grade_Calculator` folder in a Java-supported IDE such as:
 
 - IntelliJ IDEA
 - Eclipse
